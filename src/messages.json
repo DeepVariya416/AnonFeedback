@@ -1,6 +1,3 @@
-Here's the updated JSON with a more varied set of messages, including some randomized content and removing unnecessary messages:
-
-```json
 [
   {
     "title": "Message from AnonymousUser",
@@ -28,4 +25,4 @@ Here's the updated JSON with a more varied set of messages, including some rando
     "received": "5 days ago"
   }
 ]
-```
+
